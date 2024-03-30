@@ -28,7 +28,7 @@ const Navbar = () => {
               <ul className="flex  items-center gap-6">
                  
                   <p>
-                  <Link href="https://github.com/aimenonly">
+                  <Link href="https://github.com/aimenonly/lebondiplome">
                       <Button className="hover:border-green-700" variant="outline"> Voir le code source </Button>
                       </Link>
                   </p>
