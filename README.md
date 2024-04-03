@@ -1,7 +1,7 @@
 
 # Le Bon Diplome
 ![main](https://github.com/aimenonly/lebondiplome/assets/122035147/ed5a0600-e82c-47c7-8517-61b45e83f1ae)
-![dash](https://github.com/aimenonly/lebondiplome/assets/122035147/cb6bebfb-1a41-43e4-b875-a60d4146fa7d)
+
 #### FR
 
 Tableau de bord présentant les données extraites du site pole-emploi.org sur le marché de travail francais sur la periode 2010-2023.
@@ -30,7 +30,7 @@ Dashboard presenting the data extracted from the website pole-emploi.org on the 
 
 **.** What is the qualification level with the most job offers in each region?
 ## Demo
-
+![dash](https://github.com/aimenonly/lebondiplome/assets/122035147/cb6bebfb-1a41-43e4-b875-a60d4146fa7d)
 Live demo link : [lebondiplome](https://www.lebondiplome.com/)
 
 Find the full tutorial  [here](https://www.aimensouheibbennacer.com/posts/post-1)
