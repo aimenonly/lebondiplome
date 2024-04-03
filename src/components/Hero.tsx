@@ -18,7 +18,7 @@ const Hero = () => {
   Investissez dans le bon diplome. 
 </h1>
 <h2 className="my-4 drop-shadow-lg regular-40 text-gray-500 lg:regular-40">
-Trouvez les diplomes les plus demandés en France par région et par secteur d'activité.
+Trouvez les emplois les plus demandés en France par région et par domaine.
 </h2>
 <div className="py-6 pt-8 flex flex-row justify-center mx-auto">
 <div className="flex flex-col items-center gap-3 sm:flex-row">
@@ -45,7 +45,8 @@ Trouvez les diplomes les plus demandés en France par région et par secteur d'a
        
       </div>
 
-</div>   </div>
+</div>
+  </div>
 
 </section>
 
