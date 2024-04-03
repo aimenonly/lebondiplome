@@ -1,5 +1,7 @@
 
 # Le Bon Diplome
+![main](https://github.com/aimenonly/lebondiplome/assets/122035147/ed5a0600-e82c-47c7-8517-61b45e83f1ae)
+![dash](https://github.com/aimenonly/lebondiplome/assets/122035147/cb6bebfb-1a41-43e4-b875-a60d4146fa7d)
 #### FR
 
 Tableau de bord présentant les données extraites du site pole-emploi.org sur le marché de travail francais sur la periode 2010-2023.
