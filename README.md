@@ -16,7 +16,7 @@ Tableau de bord présentant les données extraites du site pole-emploi.org sur l
 
 #### EN
 
-Dashboard presenting the data extracted from the website pole-emploi.org on the French labor market for the period 2015-2023.
+Dashboard presenting the data extracted from the website pole-emploi.org on the French labor market for the period 2010-2023.
 
 **In order to answer a few questions such as:**
 
