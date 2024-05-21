@@ -33,7 +33,7 @@ Dashboard presenting the data extracted from the website pole-emploi.org on the 
 ![dash](https://github.com/aimenonly/lebondiplome/assets/122035147/cb6bebfb-1a41-43e4-b875-a60d4146fa7d)
 Live demo link : [lebondiplome](https://www.lebondiplome.com/)
 
-Find the full tutorial  [here](https://www.aimensouheibbennacer.com/posts/post-1)
+
 
 
 ## Features
